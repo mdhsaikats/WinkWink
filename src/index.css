@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+body {
+  background-color: #0004ff;
+  margin: 0;
+  height: 100vh;
+}
+
+#mouth{
+  border-radius: 7px 7px 80px 80px;
+}
+
+#mouthsec{
+  border-radius: 7px 7px 100px 100px;
+}
